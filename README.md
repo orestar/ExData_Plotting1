@@ -10,12 +10,13 @@ Currently there are 8 files for the Course Project 1:
 To comply with the Course project requirements, you need to do the following:
 
 
-1/ Download the data from : https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
-Extract the data into ./Data
+1/ Download the data from : https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip  
 
-2/ Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R)
+2/ Extract the data into ./Data
 
-3/ Run the scripts
+3/ Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R)
 
-4/ Look at the plots generated
+4/ Run the scripts
+
+5/ Look at the plots generated
 
