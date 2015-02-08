@@ -20,7 +20,7 @@ data$Datetime <- as.POSIXct(datetime)
 ## Creating Plot 3
 with(data, {
     plot(Sub_metering_1~Datetime, type="l",
-         ylab="Global Active Power (kilowatts)", xlab="")
+         ylab="Energy sub metering", xlab="")
     lines(Sub_metering_2~Datetime,col='Red')
     lines(Sub_metering_3~Datetime,col='Blue')
 })
